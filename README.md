@@ -135,3 +135,4 @@ Here are some screenshots from the Django Chat Application:
 
 ![Profile](https://filesstatic.netlify.app/Chatapp/img/user.png)
 
+
